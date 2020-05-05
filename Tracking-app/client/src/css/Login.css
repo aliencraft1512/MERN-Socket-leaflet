@@ -1,0 +1,19 @@
+#login{
+   margin-top: 70px;
+    margin-left: 70px;
+    padding: 20px;
+    width: 655px;
+    margin: auto;
+    border: 2px solid rgb(29, 196, 86);
+  border-radius: 7px;
+}
+
+#loginSubmit {
+    background-color:rgb(29, 196, 86);
+    border-color: rgb(29, 196, 86);
+    margin-left: 84%;
+}
+img{
+    margin-bottom: 20px;
+    margin-left: 45%;
+}

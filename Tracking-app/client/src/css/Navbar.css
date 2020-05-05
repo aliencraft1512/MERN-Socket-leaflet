@@ -1,0 +1,15 @@
+#loginButton,#logout,#cardsButton{
+    background-color:rgb(29, 196, 86);
+    border-color: rgb(29, 196, 86);
+}
+#bar{
+    background-color: rgb(33, 49, 58);
+}
+
+#HomeButton{
+    background-color: rgb(33, 49, 58);
+    text-decoration: none;
+}
+img,#logout{
+    display: inline-block
+}

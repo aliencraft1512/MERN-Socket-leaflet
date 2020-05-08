@@ -1,0 +1,32 @@
+#loginButton,#cardsButton{
+    background-color:rgb(29, 196, 86);
+    border-color: rgb(29, 196, 86);
+}
+#bar{
+    background-color: rgb(33, 49, 58);
+}
+
+#HomeButton{
+    background-color: rgb(33, 49, 58);
+    text-decoration: none;
+}
+
+#Nav{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.01), 0 10px 30px rgba(0,0,0,0.08);
+    z-index: 1000000;
+}
+Button{
+    border-style: none;
+}
+.flex-nav {
+    display: flex;
+    background-color: white;
+}
+.main-nav:hover{
+    color: rgb(29, 196, 86);
+    text-decoration: transparent;
+}  
+.main-nav{
+    color: rgb(33, 49, 58);
+    
+}

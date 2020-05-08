@@ -1,0 +1,26 @@
+.flex-containerr {
+    display: flex;
+    align-items: stretch;
+    background-color: #f1f1f1;
+  }
+  
+  .flex-containerr > div {
+    background-color: white;
+    color: rgb(33, 49, 58);
+  }
+
+  thead{
+      background-color: rgb(33, 49, 58);
+      color: rgb(29, 196, 86);
+  }
+ .actions{
+  display: flex;
+  align-items: stretch;
+ }
+ img:hover {
+  cursor: pointer;
+}
+#addButton{
+  position: sticky;
+  top: 43%;
+}
